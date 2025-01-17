@@ -19,6 +19,7 @@ class LinkedList {
 
 public:
     LinkedList();
+    ~LinkedList();
     
     void push_back(int x);
     void insert_sort(int x);

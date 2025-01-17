@@ -19,6 +19,7 @@ class BinTree {
 public:
     
     BinTree();
+    ~BinTree();
 
     void push(int x);
     
