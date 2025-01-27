@@ -12,6 +12,8 @@ extern void day1_part2();
 
 extern bool is_report_safe(string s);
 extern void day2_part1();
+extern bool is_report_safe_part2(vector<int> report);
+extern void day2_part2();
 // extern void day2_part2();
 
 #endif
